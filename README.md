@@ -1,13 +1,13 @@
 <div class="filament-hidden">
 
-![Filament Additional Information](https://raw.githubusercontent.com/jeffersongoncalves/filament-additional-information/1.x/art/jeffersongoncalves-filament-additional-information.png)
+![Filament Additional Information](https://raw.githubusercontent.com/jeffersongoncalves/filament-additional-information/3.x/art/jeffersongoncalves-filament-additional-information.png)
 
 </div>
 
 # Filament Additional Information
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jeffersongoncalves/filament-additional-information.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/filament-additional-information)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/jeffersongoncalves/filament-additional-information/fix-php-code-style-issues.yml?branch=1.x&label=code%20style&style=flat-square)](https://github.com/jeffersongoncalves/filament-additional-information/actions?query=workflow%3A"Fix+PHP+code+styling"+branch%3A1.x)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/jeffersongoncalves/filament-additional-information/fix-php-code-style-issues.yml?branch=3.x&label=code%20style&style=flat-square)](https://github.com/jeffersongoncalves/filament-additional-information/actions?query=workflow%3A"Fix+PHP+code+styling"+branch%3A3.x)
 [![Total Downloads](https://img.shields.io/packagist/dt/jeffersongoncalves/filament-additional-information.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/filament-additional-information)
 [![License](https://img.shields.io/packagist/l/jeffersongoncalves/filament-additional-information.svg?style=flat-square)](LICENSE.md)
 
@@ -19,14 +19,16 @@ A reusable Filament infolist `Section` that shows record timestamps (such as cre
 
 | Plugin Version | Filament Version | PHP Version |
 | -------------- | ---------------- | ----------- |
-| `^1.0`         | `^5.0`           | `^8.3`      |
+| `^1.0`         | `^3.0`           | `^8.1`      |
+| `^2.0`         | `^4.0`           | `^8.2`      |
+| `^3.0`         | `^5.0`           | `^8.3`      |
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require jeffersongoncalves/filament-additional-information:^1.0
+composer require jeffersongoncalves/filament-additional-information:^3.0
 ```
 
 ## Usage
